@@ -1,0 +1,1 @@
+postgresql://sai_netflix_clone_user:d3Ac8EnhWhAgL5EcQJDVf2ncjeXdNYLH@dpg-cqh81cqj1k6c739iu36g-a.oregon-postgres.render.com/sai_netflix_clone
